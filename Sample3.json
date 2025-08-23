@@ -1,0 +1,33 @@
+{
+  "lists": [
+    {
+      "name": "Gadget",
+      "list": [
+        {
+          "name": "サンプル1_1",
+          "nameHash": 4094080539,
+          "value3": "FALSE",
+          "element": "5",
+          "RefTest": "40",
+          "subClass": {
+            "value6": "4.56",
+            "value7": "FALSE"
+          },
+          "sample2Hash": 4131391554
+        },
+        {
+          "name": "サンプル1_3",
+          "nameHash": 436786999,
+          "value3": "TRUE",
+          "element": "4",
+          "RefTest": "30",
+          "subClass": {
+            "value6": "4.56",
+            "value7": "TRUE"
+          },
+          "sample2Hash": 407791982
+        }
+      ]
+    }
+  ]
+}

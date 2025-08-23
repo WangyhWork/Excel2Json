@@ -1,0 +1,41 @@
+{
+  "lists": [
+    {
+      "name": "Sample1",
+      "list": [
+        {
+          "name": "サンプル1_1",
+          "nameHash": 4094080539,
+          "name2": "sampleCell1",
+          "nameHash2": 3988887094,
+          "name3": "sampleCell4",
+          "value1": "1",
+          "value2": "4.56",
+          "value3": "FALSE",
+          "element": "1",
+          "UgiUgi": {
+            "value4": "4.56",
+            "value5": "FALSE"
+          },
+          "sample2Hash": 4131391554
+        },
+        {
+          "name": "サンプル1_3",
+          "nameHash": 436786999,
+          "name2": "sampleCell3",
+          "nameHash2": 63960858,
+          "name3": "sampleCell6",
+          "value1": "1",
+          "value2": "4.56",
+          "value3": "TRUE",
+          "element": "3",
+          "UgiUgi": {
+            "value4": "4.56",
+            "value5": "TRUE"
+          },
+          "sample2Hash": 407791982
+        }
+      ]
+    }
+  ]
+}

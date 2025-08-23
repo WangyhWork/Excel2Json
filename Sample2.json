@@ -1,0 +1,35 @@
+{
+  "lists": [
+    {
+      "name": "Accessory",
+      "list": [
+        {
+          "name": "サンプル1_1",
+          "nameHash": 4094080539,
+          "value2": "4.56",
+          "element": "0",
+          "RefTest2": "999",
+          "RefTest3": "1111",
+          "FugaFuga": {
+            "value6": "3.1415",
+            "value7": "TRUE"
+          },
+          "sample2Hash": 4131391554
+        },
+        {
+          "name": "サンプル1_3",
+          "nameHash": 436786999,
+          "value2": "4.56",
+          "element": "4",
+          "RefTest2": "1864",
+          "RefTest3": "5555",
+          "FugaFuga": {
+            "value6": "3.1415",
+            "value7": "FALSE"
+          },
+          "sample2Hash": 407791982
+        }
+      ]
+    }
+  ]
+}
